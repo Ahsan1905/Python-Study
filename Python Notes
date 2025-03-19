@@ -1,0 +1,125 @@
+# Python Cheatsheet
+
+## 1. Basic Syntax & Structure
+- **Variables and Data Types:** `int`, `float`, `str`, `bool`, `list`, `tuple`, `dict`, `set`, etc.
+- **Comments:** `#` (single-line), `""" """` (multi-line)
+- **Indentation:** Python relies on indentation instead of braces.
+
+---
+
+## 2. Operators
+- **Arithmetic:** `+`, `-`, `*`, `/`, `//`, `%`, `**`
+- **Comparison:** `==`, `!=`, `>`, `<`, `>=`, `<=`
+- **Logical:** `and`, `or`, `not`
+- **Assignment:** `=`, `+=`, `-=`, etc.
+- **Bitwise:** `&`, `|`, `^`, `~`, `<<`, `>>`
+- **Membership:** `in`, `not in`
+- **Identity:** `is`, `is not`
+
+---
+
+## 3. Control Flow
+- **Conditionals:** `if`, `elif`, `else`
+- **Loops:** `for`, `while`, `break`, `continue`, `pass`
+- **Comprehensions:** List, Dict, Set comprehensions
+
+---
+
+## 4. Functions
+- **Defining Functions:** `def`
+- **Arguments:** Positional, Keyword, Default, `*args`, `**kwargs`
+- **Return Statements**
+- **Lambda Functions:** One-line anonymous functions
+
+---
+
+## 5. Data Structures
+- **Lists**  
+- **Tuples**  
+- **Sets**  
+- **Dictionaries**  
+- **Strings**  
+
+---
+
+## 6. Modules & Packages
+- **Importing Modules:** `import`, `from ... import ...`, `as`
+- **Built-in Modules:** `math`, `os`, `sys`, `random`, etc.
+- **Custom Modules**  
+- **Creating Packages**  
+
+---
+
+## 7. File Handling
+- **Open Files:** `open()`, `read()`, `write()`, `with`
+- **File Modes:** `r`, `w`, `a`, `rb`, `wb`, etc.
+
+---
+
+## 8. Exception Handling
+- **Try-Except Block:** `try`, `except`, `else`, `finally`
+- **Custom Exceptions**
+
+---
+
+## 9. Object-Oriented Programming (OOP)
+- **Classes and Objects**  
+- **Inheritance**  
+- **Polymorphism**  
+- **Encapsulation**  
+- **Abstraction**
+
+---
+
+## 10. Advanced Concepts
+- **Decorators**  
+- **Generators:** `yield`  
+- **Iterators**  
+- **Context Managers:** `with`  
+- **Recursion**  
+- **Type Hinting**
+
+---
+
+## 11. Libraries and Frameworks
+- **Web Development:** Django, Flask, FastAPI  
+- **Data Science:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Machine Learning:** TensorFlow, PyTorch, scikit-learn  
+- **Automation:** Selenium, BeautifulSoup  
+- **GUI:** Tkinter, PyQt  
+- **Game Development:** Pygame  
+- **API Handling:** Requests  
+
+---
+
+## 12. Virtual Environments & Dependency Management
+- **Virtual Environment:** `venv`  
+- **Package Manager:** `pip`  
+- **Dependencies File:** `requirements.txt`
+
+---
+
+## 13. Version Control & Collaboration
+- **Git Basics:** `git init`, `git add`, `git commit`, `git push`  
+- **GitHub Integration**  
+- **Working with Repositories**  
+
+---
+
+## 14. Concurrency & Parallelism
+- **Multithreading**  
+- **Multiprocessing**  
+- **Asyncio**  
+
+---
+
+## 15. Miscellaneous Essentials
+- **Regular Expressions:** `re` module  
+- **Time and Date Manipulation:** `time`, `datetime`  
+- **Random Number Generation:** `random`  
+- **JSON Handling:** `json`  
+- **Command-Line Arguments:** `argparse`  
+
+---
+
+### 🎯 **Happy Coding!**
